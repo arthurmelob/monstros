@@ -1,0 +1,90 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+	background-color: orange;
+}
+nav a{
+	color: orange;
+	text-decoration: none;
+	font-size: 3em;
+	font-family: 'Dokdo', cursive;
+	margin: 20px;
+	text-shadow: 2px 0 0 black;
+}
+fieldset{
+	border: none;
+}
+.container1__fixedmenu{
+	background-color: red;
+	width: 100%;
+	display: inline-flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.container1__logo{
+	width: 70px;
+	height: 70px;
+	margin: 20px;
+}
+.container1__img{
+	width: 100%;
+	height: 800px;
+}
+.container2{
+	margin: 0 auto;
+	width: 80%;
+	height: 600px;
+	background-color: blue;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.container2__monster1{
+	width: 400px;
+	height: 400px;
+	background-color: salmon;
+}
+.container2__monster2{
+	width: 400px;
+	height: 400px;
+	background-color: salmon;
+}
+.container3{
+	width: 100%;
+	height: 300px;
+	background-color: red;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.container3__logo{
+	width: 200px;
+	height: 200px;
+}
+.container3__lists{
+	display: flex;
+	justify-content: space-between;
+}
+.container3 ul{
+	margin: 40px;
+	list-style: none;
+}
+.container3 a{
+	font-size: 2em;
+	text-decoration: none;
+	font-family: 'Dokdo', cursive;
+}
+fieldset legend{
+	font-family: 'Dokdo', cursive;
+	font-size: 2em;
+	color: orange;
+	text-shadow: 2px 0 0 black;
+}
+fieldset input{
+	width: 200px;
+	height: 35px;
+	padding: 10px;
+}

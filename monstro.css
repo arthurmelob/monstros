@@ -1,0 +1,142 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.oddishleaf1{
+	width: 35px;
+	height: 75px;
+	background-color: forestgreen;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	border-radius: 50%;
+	transform: rotate(-45deg);
+	position: relative;
+	top: 90px;
+	left: 120px;
+}
+.oddishleaf1__line{
+	background-color: black;
+	width: 1px;
+	height: 50px;
+	position: relative;
+	left: 15px;
+	top: 10px; 
+}
+.oddishleaf2{
+	width: 35px;
+	height: 75px;
+	background-color: forestgreen;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	border-radius: 50%;
+	position: relative;
+	left: 170px;
+	top: -5px;
+}
+.oddishleaf2__line{
+	background-color: black;
+	width: 1px;
+	height: 50px;
+	position: relative;
+	left: 15px;
+	top: 10px;
+}
+.oddishleaf3{
+	width: 35px;
+	height: 70px;
+	background-color: forestgreen;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	border-radius: 50%;
+	transform: rotate(45deg);
+	position: relative;
+	top: -55px;
+	left: 225px;
+}
+.oddishleaf3__line{
+	background-color: black;
+	width: 1px;
+	height: 50px;
+	position: relative;
+	left: 15px;
+	top: 10px;
+}
+.oddishhead{
+	background-color: darkcyan;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: darkblue;
+	border-width: 1px;
+	position: relative;
+	top: -75px;
+	left: 140px;
+}
+.oddisheye1{
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: maroon;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	position: relative;
+	top: 26px;
+	left: 25px;
+}
+.oddisheye2{
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: maroon;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	position: relative;
+	top: 16px;
+	left: 60px;
+}
+.oddishmouth{
+	width: 15px;
+	height: 15px;
+	background-color: lightpink;
+	border-bottom-left-radius: 40%;
+	border-bottom-right-radius: 40%;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	position: relative;
+	top: 25px;
+	left: 40px;
+}
+.oddishfoot1{
+	width: 30px;
+	height: 50px;
+	background-color: darkcyan;
+	border-style: solid;
+	border-color: darkblue;
+	border-width: 1px;
+	border-radius: 50%;
+	transform: rotate(-30deg);
+	position: relative;
+	top: -115px;
+	left: 140px;
+}
+.oddishfoot2{
+	width: 30px;
+	height: 50px;
+	background-color: darkcyan;
+	border-style: solid;
+	border-color: darkblue;
+	border-width: 1px;
+	border-radius: 50%;
+	transform: rotate(30deg);
+	position: relative;
+	top: -165px;
+	left: 210px;
+}

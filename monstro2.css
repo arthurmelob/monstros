@@ -1,0 +1,147 @@
+/* dugtrio1 */
+.dugtrio1{
+	width: 100px;
+	height: 150px;
+	background-color: saddlebrown;
+	border-top-left-radius: 40%;
+	border-top-right-radius: 40%;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	position: relative;
+	left: 180px;
+	top: 60px;
+}
+.dugtrio1_eye1{
+	width: 10px;
+	height: 25px;
+	background-color: black;
+	border-radius: 50%;
+	position: relative;
+	top: 20px;
+	left: 25px;
+}
+.dugtrio1_eyelight{
+	width: 5px;
+	height: 6px;
+	background-color: white;
+	border-radius: 50%;
+}
+.dugtrio1_eye2{
+	width: 10px;
+	background-color: black;
+	height: 25px;
+	border-radius: 50%;
+	position: relative;
+	top: -5px;
+	left: 55px;
+}
+.dugtrio1_nose{
+	width: 30px;
+	height: 12px;
+	background-color: pink;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	position: relative;
+	left: 30px;
+}
+/* dugtrio2 */
+.dugtrio2{
+	width: 100px;
+	height: 130px;
+	background-color: saddlebrown;
+	border-top-left-radius: 40%;
+	border-top-right-radius: 40%;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	position: relative;
+	top: -40px;
+	left: 100px;
+}
+.dugtrio2_eye1{
+	width: 10px;
+	height: 25px;
+	background-color: black;
+	border-radius: 50%;
+	position: relative;
+	top: 25px;
+	left: 25px;
+}
+.dugtrio2_eyelight{
+	width: 5px;
+	height: 6px;
+	background-color: white;
+	border-radius: 50%;
+}
+.dugtrio2_eye2{
+	width: 10px;
+	background-color: black;
+	height: 25px;
+	border-radius: 50%;
+	position: relative;
+	left: 55px;
+}
+.dugtrio2_nose{
+	width: 30px;
+	height: 12px;
+	background-color: pink;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	position: relative;
+	top: 5px;
+	left: 30px;
+}
+/* dugtrio3 */
+.dugtrio3{
+	width: 100px;
+	height: 120px;
+	background-color: saddlebrown;
+	border-top-left-radius: 40%;
+	border-top-right-radius: 40%;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	position: relative;
+	top: -120px;
+	left: 200px;
+}
+.dugtrio3_eye1{
+	width: 10px;
+	height: 25px;
+	background-color: black;
+	border-radius: 50%;
+	position: relative;
+	top: 25px;
+	left: 25px;
+}
+.dugtrio3_eyelight{
+	width: 5px;
+	height: 6px;
+	background-color: white;
+	border-radius: 50%;
+}
+.dugtrio3_eye2{
+	width: 10px;
+	background-color: black;
+	height: 25px;
+	border-radius: 50%;
+	position: relative;
+	left: 55px;
+}
+.dugtrio3_nose{
+	width: 30px;
+	height: 12px;
+	background-color: pink;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	position: relative;
+	top: 5px;
+	left: 30px;
+}
