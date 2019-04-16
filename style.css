@@ -85,3 +85,13 @@ fieldset input{
 	height: 35px;
 	padding: 10px;
 }
+.container3__inscreva-se{
+	display: flex;
+	flex-direction: column;
+}
+.container3__inscreva-se p{
+	color: orange;
+	text-align: justify;
+	font-size: 1.5em;
+	font-family: 'Dokdo', cursive;
+}
