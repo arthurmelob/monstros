@@ -17,7 +17,7 @@ nav a{
 fieldset{
 	border: none;
 }
-.container1__fixedmenu{
+.container1__menu{
 	background-color: red;
 	width: 100%;
 	display: inline-flex;
@@ -37,7 +37,6 @@ fieldset{
 	margin: 0 auto;
 	width: 80%;
 	height: 600px;
-	background-color: blue;
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
@@ -45,12 +44,10 @@ fieldset{
 .container2__monster1{
 	width: 400px;
 	height: 400px;
-	background-color: salmon;
 }
 .container2__monster2{
 	width: 400px;
 	height: 400px;
-	background-color: salmon;
 }
 .container3{
 	width: 100%;
